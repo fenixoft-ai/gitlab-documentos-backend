@@ -1,0 +1,8 @@
+DB_USER = "documentos_usr"
+DB_PASS = "))ARG_b)jmXa}8tVh86gG67c?ihJ(&"
+#DB_HOST = "documentos-rds-mariadb-backend-dbinstance-jeuz8rv0vrnc.cfam6axbtjdr.us-east-1.rds.amazonaws.com"
+DB_HOST = 3.81.112.174
+DB_PORT = 3306
+#DB_NAME = "documentos_dev"
+DB_NAME = "documentos"
+SECRET = 7bc968f72701ca6d9fa7e7b1edb799b6bdd549b496a34b219ef25379a12dca3c
